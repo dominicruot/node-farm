@@ -1,9 +1,9 @@
-#### This is a Farm simple application from a tutorial from Jonas Schmedtmann
+### This is a Farm simple application from a tutorial from Jonas Schmedtmann
 
 ##### Overview Page
 
 ![GitHub Logo](/images/Overview.png)
 
-##### Overview Page
+##### Product Page
 
-![GitHub Logo](/images/Production.png)
+![GitHub Logo](/images/Product.png)
